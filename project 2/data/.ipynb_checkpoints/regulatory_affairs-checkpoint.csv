@@ -1,0 +1,7 @@
+ID,Country,Submission_Date,Approval_Date,Approval_Status,Drug_Name
+1,India,2023-01-12,2023-04-10,Approved,DrugA
+2,USA,2023-02-05,2023-06-15,Rejected,DrugB
+3,India,2023-02-20,2023-05-25,Approved,DrugC
+4,UK,2023-03-10,,Pending,DrugD
+5,USA,2023-04-01,2023-07-12,Approved,DrugE
+6,India,2023-04-15,,Pending,DrugF
